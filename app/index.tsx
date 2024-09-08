@@ -68,7 +68,7 @@ export default function Index() {
     description: 'Credits towards consultation',
     image: 'https://i.imgur.com/3g7nmJC.png',
     currency: 'INR',
-    key: 'rzp_test_bXDoN2Q1QTkbvw', // Your api key
+    key: '', // Your api key
     amount: '5000',
     name: 'foo',
     prefill: {
