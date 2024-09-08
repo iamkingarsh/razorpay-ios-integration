@@ -3,6 +3,7 @@ import React from "react";
 import NewSubscriptionPlanForm from "@/components/newSubscriptionPlanForm";
 import Button from "@/components/ui/button";
 import RazorpayCheckout from 'react-native-razorpay'
+import { router } from "expo-router";
 
 export default function Index() {
 
