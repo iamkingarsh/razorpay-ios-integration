@@ -87,6 +87,8 @@ export default function Index() {
     alert(`Error: ${error.code} | ${error.description}`);
   });
 }}><Text>Pay</Text></TouchableHighlight>
+<TouchableHighlight onPress={() =>router.push("/_sitemap")}><Text>Redirect</Text></TouchableHighlight>
+
          {/* <TouchableHighlight onPress={() => {
                 var options = {
                     description: 'Credits towards consultation',
